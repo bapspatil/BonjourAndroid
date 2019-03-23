@@ -72,3 +72,10 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+# App folder
+app/google-services.json
+app/release/
+
+# macOS
+.DS_Store
