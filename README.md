@@ -10,9 +10,10 @@ A protocol guide & a bunch of files I may or may not need while building a new A
 3. Change `local.properties` if the repository is cloned from elsewhere.
 4. Setup project-level `build.gradle` file.
 5. Setup app-level `build.gradle` file.
-6. Setup `.gitignore`.
-7. Add `README.md` and `LICENSE`.
-8. Push code to remote.
+6. Add `ktlint.gradle` file.
+7. Setup `.gitignore`.
+8. Add `README.md` and `LICENSE`.
+9. Push code to remote.
 
 ## Sections To Include in a README
 
