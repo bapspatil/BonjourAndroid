@@ -82,4 +82,4 @@ app/release/
 
 # C file where I store API keys
 app/src/main/jni/keys.c
-app/src/cpp/native-lib.cpp
+app/src/main/cpp/native-lib.cpp
