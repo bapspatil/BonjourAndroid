@@ -79,3 +79,6 @@ app/release/
 
 # macOS
 .DS_Store
+
+# C file where I store API keys
+app/src/main/jni/keys.c
